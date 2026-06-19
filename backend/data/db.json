@@ -1,0 +1,375 @@
+{
+  "users": [
+    {
+      "id": "c485c2f9-e3f0-4a04-99d2-8f4a37b46fa3",
+      "firstName": "Isha",
+      "lastName": "Patel",
+      "email": "isha.patel1@example.test",
+      "phone": "9100000001",
+      "role": "Support",
+      "status": "Inactive",
+      "createdAt": "2026-06-19T04:12:34.588Z"
+    },
+    {
+      "id": "4e266912-08fb-49f8-988f-2617fc602384",
+      "firstName": "Kabir",
+      "lastName": "Singh",
+      "email": "kabir.singh2@example.test",
+      "phone": "9100000002",
+      "role": "Engineer",
+      "status": "Active",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "d8cf9c6e-6697-4c14-b559-75a194a74f4b",
+      "firstName": "Meera",
+      "lastName": "Khan",
+      "email": "meera.khan3@example.test",
+      "phone": "9100000003",
+      "role": "QA",
+      "status": "Inactive",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "4f02a6f6-0844-4db7-80f0-6d590f0cd1d7",
+      "firstName": "Arjun",
+      "lastName": "Gupta",
+      "email": "arjun.gupta4@example.test",
+      "phone": "9100000004",
+      "role": "Analyst",
+      "status": "Active",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "ff7d9386-242f-45d9-b228-687d2731fadb",
+      "firstName": "Sana",
+      "lastName": "Iyer",
+      "email": "sana.iyer5@example.test",
+      "phone": "9100000005",
+      "role": "Manager",
+      "status": "Inactive",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "f6cc6b25-8400-4c9a-a997-0b90cf6169c2",
+      "firstName": "Rohan",
+      "lastName": "Nair",
+      "email": "rohan.nair6@example.test",
+      "phone": "9100000006",
+      "role": "Support",
+      "status": "Active",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "7c7af5b4-ef24-4be1-a1af-802c98c81168",
+      "firstName": "Nisha",
+      "lastName": "Das",
+      "email": "nisha.das7@example.test",
+      "phone": "9100000007",
+      "role": "Engineer",
+      "status": "Inactive",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "c1f0515c-f22c-4c6c-846d-f0bdd044ee07",
+      "firstName": "Aarav",
+      "lastName": "Sharma",
+      "email": "aarav.sharma8@example.test",
+      "phone": "9100000008",
+      "role": "QA",
+      "status": "Active",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "7d959040-862f-42f9-bda5-a1deabd25013",
+      "firstName": "Isha",
+      "lastName": "Patel",
+      "email": "isha.patel9@example.test",
+      "phone": "9100000009",
+      "role": "Analyst",
+      "status": "Inactive",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "73a4fed4-17cf-410a-b1d8-4d07bc17cf0d",
+      "firstName": "Kabir",
+      "lastName": "Singh",
+      "email": "kabir.singh10@example.test",
+      "phone": "9100000010",
+      "role": "Manager",
+      "status": "Active",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "8a1c7cc6-43de-46a7-a9d8-0acfa761deea",
+      "firstName": "Meera",
+      "lastName": "Khan",
+      "email": "meera.khan11@example.test",
+      "phone": "9100000011",
+      "role": "Support",
+      "status": "Inactive",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "440b5cdb-2253-4051-9388-5bf55ec948cf",
+      "firstName": "Arjun",
+      "lastName": "Gupta",
+      "email": "arjun.gupta12@example.test",
+      "phone": "9100000012",
+      "role": "Engineer",
+      "status": "Active",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "620d0b2c-eef4-482e-9ebf-18219e8afa3f",
+      "firstName": "Sana",
+      "lastName": "Iyer",
+      "email": "sana.iyer13@example.test",
+      "phone": "9100000013",
+      "role": "QA",
+      "status": "Inactive",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "c788070f-2146-47c2-85c5-0c30d70b2faa",
+      "firstName": "Rohan",
+      "lastName": "Nair",
+      "email": "rohan.nair14@example.test",
+      "phone": "9100000014",
+      "role": "Analyst",
+      "status": "Active",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "4ddb0aa1-7f59-43bb-9ba4-ea47a90ed078",
+      "firstName": "Nisha",
+      "lastName": "Das",
+      "email": "nisha.das15@example.test",
+      "phone": "9100000015",
+      "role": "Manager",
+      "status": "Inactive",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "5955864c-feae-49b9-8d68-46a252005e91",
+      "firstName": "Aarav",
+      "lastName": "Sharma",
+      "email": "aarav.sharma16@example.test",
+      "phone": "9100000016",
+      "role": "Support",
+      "status": "Active",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "cc20ab42-d310-4386-8efc-99919848b18d",
+      "firstName": "Isha",
+      "lastName": "Patel",
+      "email": "isha.patel17@example.test",
+      "phone": "9100000017",
+      "role": "Engineer",
+      "status": "Inactive",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "71a9d704-ab9a-4ed4-8db7-b97574293d9e",
+      "firstName": "Kabir",
+      "lastName": "Singh",
+      "email": "kabir.singh18@example.test",
+      "phone": "9100000018",
+      "role": "QA",
+      "status": "Active",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "60a973a8-8d8c-49d7-a7d8-2d7ac50a4aec",
+      "firstName": "Meera",
+      "lastName": "Khan",
+      "email": "meera.khan19@example.test",
+      "phone": "9100000019",
+      "role": "Analyst",
+      "status": "Inactive",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "80e3216e-c3bb-4fbe-ba2f-c0c2f667b13c",
+      "firstName": "Arjun",
+      "lastName": "Gupta",
+      "email": "arjun.gupta20@example.test",
+      "phone": "9100000020",
+      "role": "Manager",
+      "status": "Active",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "63f90e5b-1c2b-45b8-98c5-c9009128618e",
+      "firstName": "Sana",
+      "lastName": "Iyer",
+      "email": "sana.iyer21@example.test",
+      "phone": "9100000021",
+      "role": "Support",
+      "status": "Inactive",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "28c3ab24-ab83-4d3f-a0d5-ede4cf614c57",
+      "firstName": "Rohan",
+      "lastName": "Nair",
+      "email": "rohan.nair22@example.test",
+      "phone": "9100000022",
+      "role": "Engineer",
+      "status": "Active",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "5de306f0-d40e-4881-8918-380f83cb3f2b",
+      "firstName": "Nisha",
+      "lastName": "Das",
+      "email": "nisha.das23@example.test",
+      "phone": "9100000023",
+      "role": "QA",
+      "status": "Inactive",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "1c28720f-5595-4b5b-90aa-f25fdd7e6842",
+      "firstName": "Aarav",
+      "lastName": "Sharma",
+      "email": "aarav.sharma24@example.test",
+      "phone": "9100000024",
+      "role": "Analyst",
+      "status": "Active",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "49390bd3-0756-431f-9faa-a249b340638c",
+      "firstName": "Isha",
+      "lastName": "Patel",
+      "email": "isha.patel25@example.test",
+      "phone": "9100000025",
+      "role": "Manager",
+      "status": "Inactive",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "8e537fab-edc6-4055-be63-b25d7ff0df9f",
+      "firstName": "Kabir",
+      "lastName": "Singh",
+      "email": "kabir.singh26@example.test",
+      "phone": "9100000026",
+      "role": "Support",
+      "status": "Active",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "f90b666a-7473-4674-9f72-cf48c4e1798e",
+      "firstName": "Meera",
+      "lastName": "Khan",
+      "email": "meera.khan27@example.test",
+      "phone": "9100000027",
+      "role": "Engineer",
+      "status": "Inactive",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "f298d8e9-33f6-43a4-a000-9bcd9f7fce75",
+      "firstName": "Arjun",
+      "lastName": "Gupta",
+      "email": "arjun.gupta28@example.test",
+      "phone": "9100000028",
+      "role": "QA",
+      "status": "Active",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "b78ee982-828b-40d4-863f-4f4fb1d6c5b9",
+      "firstName": "Sana",
+      "lastName": "Iyer",
+      "email": "sana.iyer29@example.test",
+      "phone": "9100000029",
+      "role": "Analyst",
+      "status": "Inactive",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "acb13a78-afcc-4da9-88ad-d51f6059ced5",
+      "firstName": "Rohan",
+      "lastName": "Nair",
+      "email": "rohan.nair30@example.test",
+      "phone": "9100000030",
+      "role": "Manager",
+      "status": "Active",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "38186e34-45a1-4662-adc5-61f479dc5942",
+      "firstName": "Nisha",
+      "lastName": "Das",
+      "email": "nisha.das31@example.test",
+      "phone": "9100000031",
+      "role": "Support",
+      "status": "Inactive",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "a08e9e65-b2fe-49ff-8bf4-75212da589d7",
+      "firstName": "Aarav",
+      "lastName": "Sharma",
+      "email": "aarav.sharma32@example.test",
+      "phone": "9100000032",
+      "role": "Engineer",
+      "status": "Active",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "2246c53e-04a1-49d2-8aad-4b278de629c8",
+      "firstName": "Isha",
+      "lastName": "Patel",
+      "email": "isha.patel33@example.test",
+      "phone": "9100000033",
+      "role": "QA",
+      "status": "Inactive",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "cf3c15dc-9040-4ea8-a482-2c29e7a3ae40",
+      "firstName": "Kabir",
+      "lastName": "Singh",
+      "email": "kabir.singh34@example.test",
+      "phone": "9100000034",
+      "role": "Analyst",
+      "status": "Active",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "8fa5e9ae-f732-491d-90bb-351b4e741b71",
+      "firstName": "Meera",
+      "lastName": "Khan",
+      "email": "meera.khan35@example.test",
+      "phone": "9100000035",
+      "role": "Manager",
+      "status": "Inactive",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "83b2a493-9bc0-458a-87ef-23c2c1ec1c70",
+      "firstName": "Arjun",
+      "lastName": "Gupta",
+      "email": "arjun.gupta36@example.test",
+      "phone": "9100000036",
+      "role": "Support",
+      "status": "Active",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    },
+    {
+      "id": "f90cb085-2787-475a-8d49-7269943ad15c",
+      "firstName": "Sana",
+      "lastName": "Iyer",
+      "email": "sana.iyer37@example.test",
+      "phone": "9100000037",
+      "role": "Engineer",
+      "status": "Inactive",
+      "createdAt": "2026-06-19T04:12:34.589Z"
+    }
+  ],
+  "selectionsByUser": {}
+}
